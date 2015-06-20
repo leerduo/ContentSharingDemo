@@ -1,6 +1,12 @@
 <resources>
-    <string name="app_name">ContentSharingDemo</string>
+    <string name="app_name">Demo</string>
 
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+
+    <string name="quote_1">Expectation is the root of all heartache - William Shakespeare</string>
+    <string name="quote_2">The true sign of intelligence is not knowledge but imagination - Albert
+        Einstein</string>
+    <string name="quote_3">As for me, all I know is that I know nothing - Socrates</string>
+    <string name="title_activity_file_select">FileSelectActivity</string>
 </resources>
